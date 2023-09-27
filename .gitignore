@@ -1,0 +1,8 @@
+Release
+Debug
+*.dll
+*.o
+*.exe
+src/include
+src/lib
+.vscode
