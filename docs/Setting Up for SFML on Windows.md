@@ -30,6 +30,8 @@ Instructions:
 - Everything **SHOULD** be set up now. If you followed this guide correctly, and followed the youtube video correctly for setting up a Makefile, creating a main.cpp, etc.
 - To test the program, follow the steps in the "Running New Build" file in the /docs folder in this repo. Do these steps every time you want to test new code changes.  
 
+<!--- TODO add steps for separate release and debug builds--->
+
 ---
 Renaming "main.exe" executable:
 - in the file named "Makefile", in the g++ command under "Link", change "Release/main" argument to whatever you want
